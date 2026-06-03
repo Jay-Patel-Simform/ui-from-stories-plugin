@@ -1,5 +1,5 @@
 {
-  "name": "@your-org/ui-from-stories-plugin",
+  "name": "@jay-patel-simform/ui-from-stories-plugin",
   "version": "1.0.0",
   "description": "Claude Code plugin — generate React UI components from user stories (shadcn/ui + Tailwind)",
   "keywords": [
