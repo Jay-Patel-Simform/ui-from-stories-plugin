@@ -1,15 +1,17 @@
 {
+  "name": "ui-from-stories-plugin",
+  "version": "1.0.0",
+  "description": "Generate UI components from stories",
+  "owner": {
+    "name": "Jay Patel",
+    "email": "your-email@example.com"
+  },
   "plugins": [
     {
       "name": "ui-from-stories",
-      "displayName": "UI from Stories Plugin",
       "description": "Generate UI components from stories",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/Jay-Patel-Simform/ui-from-stories-plugin.git",
-        "path": ".",
-        "ref": "main"
-      }
+      "source": "./",
+      "category": "development"
     }
   ]
 }
