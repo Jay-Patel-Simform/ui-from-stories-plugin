@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    {
+      "name": "ui-from-stories",
+      "displayName": "UI from Stories Plugin",
+      "description": "Generate UI components from stories",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Jay-Patel-Simform/ui-from-stories-plugin.git",
+        "path": ".",
+        "ref": "main"
+      }
+    }
+  ]
+}
