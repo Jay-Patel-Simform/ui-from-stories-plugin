@@ -1,0 +1,17 @@
+{
+  "name": "@your-org/ui-from-stories-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin — generate React UI components from user stories (shadcn/ui + Tailwind)",
+  "keywords": [
+    "claude-code-plugin",
+    "claude-skill",
+    "react",
+    "shadcn",
+    "tailwind",
+    "ui-generation"
+  ],
+  "license": "MIT",
+  "files": [
+    "skills/"
+  ]
+}
