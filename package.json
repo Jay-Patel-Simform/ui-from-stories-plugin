@@ -1,14 +1,16 @@
 {
   "name": "@jay-patel-simform/ui-from-stories-plugin",
-  "version": "1.0.0",
-  "description": "Claude Code plugin — generate React UI components from user stories (shadcn/ui + Tailwind)",
+  "version": "1.1.0",
+  "description": "Claude Code plugin — generate React UI components from user stories using any UI library (shadcn, MUI, Chakra, Tailwind, etc.)",
   "keywords": [
     "claude-code-plugin",
     "claude-skill",
     "react",
-    "shadcn",
+    "ui-generation",
     "tailwind",
-    "ui-generation"
+    "shadcn",
+    "mui",
+    "chakra"
   ],
   "license": "MIT",
   "files": [
