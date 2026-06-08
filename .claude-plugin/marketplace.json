@@ -1,7 +1,7 @@
 {
   "name": "ui-from-stories-plugin",
-  "version": "1.1.0",
-  "description": "Generate UI components from stories",
+  "version": "1.2.0",
+  "description": "Generate production-ready frontend UI from user stories across React, Next.js, Vue, Nuxt, Angular, and Svelte with any component library",
   "owner": {
     "name": "Jay Patel",
     "email": "your-email@example.com"
@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "ui-from-stories",
-      "description": "Generate UI components from stories",
+      "description": "Generate production-ready frontend UI from user stories across React, Next.js, Vue, Nuxt, Angular, and Svelte with any component library",
       "source": "./",
       "category": "development"
     }
